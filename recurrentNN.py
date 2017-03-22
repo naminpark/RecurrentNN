@@ -3,6 +3,9 @@ A Recurrent Neural Network (LSTM) implementation example using TensorFlow librar
 This example is using the MNIST database of handwritten digits (http://yann.lecun.com/exdb/mnist/)
 Long Short Term Memory paper: http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
 
+
+reviser: Park, Nam In
+
 Author: Aymeric Damien
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
 '''
